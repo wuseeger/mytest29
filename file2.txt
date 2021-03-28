@@ -1,2 +1,6 @@
 test1
+<<<<<<< HEAD
 master
+=======
+abc
+>>>>>>> feature1
